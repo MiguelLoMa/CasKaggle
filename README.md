@@ -1,3 +1,1 @@
-Yassin Nakmouche Sahli M'Ghaiti NIU: 1674585
-
-Miguel López Manzanares         NIU: 1673970
+Estudi de les correlacions en un dataset, per Yassin Nakmouche Sahli M'Ghaiti i Miguel López Manzanares
